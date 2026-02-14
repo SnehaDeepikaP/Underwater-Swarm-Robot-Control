@@ -2,6 +2,7 @@
 
 An AI-driven swarm control framework for coordinating multiple Autonomous Underwater Vehicles (AUVs) in dynamic underwater environments.
 Paper Title: Artificial Intelligence Algorithms for Swarm-Based AUV Control
+
 ---
 
 ## 📌 Abstract
