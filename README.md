@@ -43,7 +43,7 @@ The primary objectives of this project are:
 4. **Collision Avoidance** – Avoid static and moving obstacles  
 
 ---
-
+<!--
 ## 🧠 Algorithms Integrated
 
 This framework integrates three complementary algorithms:
@@ -78,7 +78,7 @@ This framework integrates three complementary algorithms:
 ✔ Followers dynamically adjust relative to leader  
 
 ---
-
+-->
 ## 🏗️ System Framework
 
 The integrated AI framework works as follows:
